@@ -1,0 +1,9 @@
+.build/
+dist/
+.DS_Store
+*.app
+*.zip
+*-preview.png
+resolved-app-icon.png
+*.sqlite*
+.env*

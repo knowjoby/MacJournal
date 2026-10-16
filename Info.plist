@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>MacJournal</string>
+	<key>CFBundleExecutable</key>
+	<string>MacJournal</string>
+	<key>CFBundleIconFile</key>
+	<string>MacJournal.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.MacJournal</string>
+	<key>CFBundleName</key>
+	<string>MacJournal</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<false/>
+	<key>NSAppDataUsageDescription</key>
+	<string>Read normal Chrome browsing history from your selected profile for the local journal. Incognito and session files are never read.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Read the active normal browser tab URL and page title for your local activity journal. Private and incognito windows are excluded.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
